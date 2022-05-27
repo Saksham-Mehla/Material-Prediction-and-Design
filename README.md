@@ -9,12 +9,12 @@ We have do the following 3 tasks -
 This repository contains a python notebook that contains the code that carries out the above mentioned tasks.
 
 Libraries used: 
-numpy
-pandas
-pytorch
-matplotlib.pyplot
-seaborn
-sklearn
+numpy  
+pandas  
+pytorch  
+matplotlib.pyplot  
+seaborn  
+sklearn  
 
 How to run: 
 Just download the python notebook and toy_alloy_data.csv dataset in the same directory and run it using Jupyter notebook or Google Colab
